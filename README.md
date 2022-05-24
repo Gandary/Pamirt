@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pamirt
+- 👋 Hi, I’m @Gandari
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java and Linux(Centos).
 - 💞️ I’m looking to collaborate on nothing for now.
