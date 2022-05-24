@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gandari
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java and Linux(Centos).
+- 🌱 I’m currently learning Java and Linux, MySQL.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me, i will tell you later.
 
